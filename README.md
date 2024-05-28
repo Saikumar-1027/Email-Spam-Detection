@@ -4,6 +4,8 @@
 
 This Jupyter Notebook project focuses on classifying emails as either spam or ham (non-spam) using the Naive Bayes algorithm. Naive Bayes is a widely used algorithm for text classification tasks, making it suitable for spam detection. The project preprocesses the email data, calculates word frequencies, and then applies Naive Bayes to classify new emails.
 
+(Note: Without using scikit-learn, real naive methods are implemented for educational purposes.)
+
 ## Features
 
 - Preprocesses email data: The notebook preprocesses email data by removing stopwords, punctuation, and converting words to lowercase.
