@@ -19,6 +19,6 @@ This Jupyter Notebook project focuses on classifying emails as either spam or ha
 
 ## File Structure
 
-- `email_spam_detection.ipynb`: Jupyter Notebook containing the project code and explanations.
+- `Email_Spam_Detection_Naive_Bayes.ipynb`: Jupyter Notebook containing the project code and explanations.
 - `emails.csv`: Email dataset.
 - `README.md`: Documentation about the project.
